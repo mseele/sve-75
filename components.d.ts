@@ -4,12 +4,14 @@
 
 declare module 'vue' {
   export interface GlobalComponents {
+    Event: typeof import('./src/components/Event.vue')['default']
     Events: typeof import('./src/components/Events.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
     Head: typeof import('@vueuse/head')['Head']
     Hero: typeof import('./src/components/Hero.vue')['default']
+    History: typeof import('./src/components/History.vue')['default']
     Intro: typeof import('./src/components/Intro.vue')['default']
-    Sponsors: typeof import('./src/components/Sponsors.vue')['default']
+    Picture: typeof import('./node_modules/@islands/images/src/Picture.vue')['default']
   }
 }
 

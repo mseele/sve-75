@@ -51,9 +51,9 @@
           <div
             class="relative overflow-hidden rounded-2xl pt-64 pb-10 shadow-xl"
           >
-            <img
+            <Picture
+              src="@/assets/pitch.jpg?preset=card"
               class="absolute inset-0 h-full w-full object-cover"
-              src="https://images.unsplash.com/photo-1521510895919-46920266ddb3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&fp-x=0.5&fp-y=0.6&fp-z=3&width=1440&height=1440&sat=-100"
               alt=""
             />
             <div class="absolute inset-0 bg-rose-500 mix-blend-multiply" />
@@ -61,13 +61,6 @@
               class="absolute inset-0 bg-gradient-to-t from-rose-600 via-rose-600 opacity-90"
             />
             <div class="relative px-8">
-              <div>
-                <img
-                  class="h-12"
-                  src="https://tailwindui.com/img/logos/workcation.svg?color=white"
-                  alt="Workcation"
-                />
-              </div>
               <blockquote class="mt-8">
                 <div
                   class="relative text-lg font-medium text-white md:flex-grow"
@@ -91,7 +84,7 @@
 
                 <footer class="mt-4">
                   <p class="text-base font-semibold text-rose-200">
-                    Sarah Williams, CEO at Workcation
+                    Sebastian Lazar, Vorstand
                   </p>
                 </footer>
               </blockquote>
@@ -106,30 +99,29 @@
           <h2
             class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl"
           >
-            On a mission to empower teams
+            75 Jahre, Wahnsinn
           </h2>
           <div class="mt-6 space-y-6 text-gray-500">
-            <p class="text-lg">
-              Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum
-              urna sed consectetur neque tristique pellentesque. Blandit amet,
-              sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi
-              vel porttitor vitae ut. Amet vitae fames senectus vitae.
+            <p class="text-base">
+              Seit einem dreiviertel Jahrhundert existiert unser SVE. Ein
+              dreiviertel Jahrhundert voller Emotionen. Wie oft gab es Momente,
+              in denen Freudenschreie und Tränen nah beieinanderlagen. Aber wir
+              wollen nichts davon vermissen.
             </p>
             <p class="text-base leading-7">
-              Sollicitudin tristique eros erat odio sed vitae, consequat turpis
-              elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu
-              viverra donec ut volutpat donec laoreet quam urna. Sollicitudin
-              tristique eros erat odio sed vitae, consequat turpis elementum.
-              Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut
-              volutpat donec laoreet quam urna.
+              Eines ist durch all die Jahrzehnte gleich geblieben: wir leben und
+              lieben den Sport. Und wir stellen gemeinsam etwas auf die Beine.
+              Dafür steht vor allem unser Herzstück, das Sportgelände, das seit
+              2018 unser neues zu Hause ist.
             </p>
             <p class="text-base leading-7">
-              Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt
-              vel ultricies. Vulputate aliquet velit faucibus semper.
-              Pellentesque in venenatis vestibulum consectetur nibh id. In id ut
-              tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum
-              lacus in. Viverra.
+              Nachdem wir auch die Pandemie gemeistert haben, wird dieser Sommer
+              etwas ganz Besonderes. Wir feiern mit Euch vom 8. bis zum 10. Juli
+              2022 den 75. Geburtstag des SVE. An diesem Wochenende lassen wir
+              Euch alle, unsere Freundinnen und Freunde, unsere Mitglieder und
+              Partner hochleben. Denn sie machen den SVE zu dem, was er ist:
             </p>
+            <p class="font-medium text-rose-500">#mehralseinverein</p>
           </div>
         </div>
 
@@ -150,8 +142,8 @@
             </div>
           </dl>
           <div class="mt-10">
-            <a href="#" class="text-base font-medium text-rose-500">
-              Learn more about how we're changing the world&nbsp&rarr;
+            <a href="#historie" class="text-base font-medium text-rose-500">
+              Zehn Highlights aus 75 Jahre SVE&nbsp&rarr;
             </a>
           </div>
         </div>
@@ -162,9 +154,9 @@
 
 <script setup lang="ts">
 const stats = [
-  { label: "Founded", value: "2021" },
-  { label: "Employees", value: "5" },
-  { label: "Beta Users", value: "521" },
-  { label: "Raised", value: "$25M" },
-];
+  { label: 'Gründung', value: '1975' },
+  { label: 'Mitglieder', value: '555' },
+  { label: 'Beta Users', value: '521' },
+  { label: 'Raised', value: '$25M' },
+]
 </script>

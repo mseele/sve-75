@@ -5,24 +5,20 @@
     >
       <div>
         <div>
-          <img
-            class="h-11 w-auto"
-            src="https://tailwindui.com/img/logos/workflow-mark.svg?color=rose&shade=500"
-            alt="Workflow"
-          />
+          <Logo class="h-16 w-auto" alt="VSE" />
         </div>
         <div class="mt-20">
           <div>
-            <a href="#" class="inline-flex space-x-4">
+            <a href="#feier" class="inline-flex space-x-4">
               <span
                 class="rounded bg-rose-50 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-rose-500"
               >
-                What's new
+                75 Jahre
               </span>
               <span
                 class="inline-flex items-center space-x-1 text-sm font-medium text-rose-500"
               >
-                <span>Just shipped version 0.1.0</span>
+                <span>Feiert mit uns</span>
                 <ChevronRightIcon class="h-5 w-5" aria-hidden="true" />
               </span>
             </a>
@@ -31,49 +27,26 @@
             <h1
               class="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl"
             >
-              Issue management for growing teams
+              75 Jahre SV Eutingen
             </h1>
             <p class="mt-6 text-xl text-gray-500">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
-              lorem cupidatat commodo.
+              Wir blicken zurück und wollen unser Jubiläum gebührend feiern.
+              Seit dabei und erlebt eine schöne Zeit gemeinsam mit uns.
             </p>
           </div>
-          <form action="#" class="mt-12 sm:flex sm:w-full sm:max-w-lg">
-            <div class="min-w-0 flex-1">
-              <label for="hero-email" class="sr-only">Email address</label>
-              <input
-                id="hero-email"
-                type="email"
-                class="block w-full rounded-md border border-gray-300 px-5 py-3 text-base text-gray-900 placeholder-gray-500 shadow-sm focus:border-rose-500 focus:ring-rose-500"
-                placeholder="Enter your email"
-              />
-            </div>
-            <div class="mt-4 sm:mt-0 sm:ml-3">
-              <button
-                type="submit"
-                class="block w-full rounded-md border border-transparent bg-rose-500 px-5 py-3 text-base font-medium text-white shadow hover:bg-rose-600 focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2 sm:px-10"
-              >
-                Notify me
-              </button>
-            </div>
-          </form>
           <div class="mt-6">
-            <div class="inline-flex items-center divide-x divide-gray-300">
-              <div class="flex flex-shrink-0 pr-5">
-                <StarIcon class="h-5 w-5 text-yellow-400" aria-hidden="true" />
-                <StarIcon class="h-5 w-5 text-yellow-400" aria-hidden="true" />
-                <StarIcon class="h-5 w-5 text-yellow-400" aria-hidden="true" />
-                <StarIcon class="h-5 w-5 text-yellow-400" aria-hidden="true" />
-                <StarIcon class="h-5 w-5 text-yellow-400" aria-hidden="true" />
+            <a href="#feier">
+              <div class="inline-flex items-center divide-x divide-gray-300">
+                <div class="flex flex-shrink-0 pr-5">🎉 🤘 🎁 🎈 🥳</div>
+                <div
+                  class="min-w-0 flex-1 py-1 pl-5 text-sm text-gray-500 sm:py-3"
+                >
+                  <span class="font-medium text-gray-900">Sei dabei</span>
+                  am
+                  <span class="font-medium text-rose-500">9. und 10. Juli</span>
+                </div>
               </div>
-              <div
-                class="min-w-0 flex-1 py-1 pl-5 text-sm text-gray-500 sm:py-3"
-              >
-                <span class="font-medium text-gray-900">Rated 5 stars</span>
-                by over
-                <span class="font-medium text-rose-500">500 beta users</span>
-              </div>
-            </div>
+            </a>
           </div>
         </div>
       </div>
@@ -123,11 +96,16 @@
         <div
           class="relative -mr-40 pl-4 sm:mx-auto sm:max-w-3xl sm:px-0 lg:h-full lg:max-w-none lg:pl-12"
         >
-          <img
+          <Picture
+            class="w-full rounded-md shadow-xl ring-1 ring-black ring-opacity-5 lg:h-full lg:w-auto lg:max-w-none"
+            src="@/assets/party.jpg?preset=card"
+            alt=""
+          />
+          <!-- <img
             class="w-full rounded-md shadow-xl ring-1 ring-black ring-opacity-5 lg:h-full lg:w-auto lg:max-w-none"
             src="https://tailwindui.com/img/component-images/task-app-rose.jpg"
             alt=""
-          />
+          /> -->
         </div>
       </div>
     </div>
@@ -135,5 +113,6 @@
 </template>
 
 <script setup lang="ts">
-import { ChevronRightIcon, StarIcon } from "@heroicons/vue/solid";
+import Logo from '@/assets/logo.svg?component'
+import { ChevronRightIcon } from '@heroicons/vue/solid'
 </script>

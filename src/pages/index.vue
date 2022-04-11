@@ -8,7 +8,7 @@ title: 75 Jahre SV Eutingen
       <Hero />
       <Intro />
       <Events />
-      <Sponsors />
+      <History />
     </main>
 
     <Footer />
