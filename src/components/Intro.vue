@@ -76,12 +76,12 @@
                     />
                   </svg>
                   <p class="relative">
-                    Tincidunt integer commodo, cursus etiam aliquam neque, et.
-                    Consectetur pretium in volutpat, diam. Montes, magna cursus
-                    nulla feugiat dignissim id lobortis amet.
+                    Seit 75 Jahren ermöglichen wir vielen Menschen durch unser
+                    Sportangebot gesellschaftliche Teilhabe. Und all das wird
+                    von Menschen organisiert, die ehrenamtlich für unsere
+                    Gesellschaft etwas Gutes schaffen.
                   </p>
                 </div>
-
                 <footer class="mt-4">
                   <p class="text-base font-semibold text-rose-200">
                     Sebastian Lazar, Vorstand
@@ -155,8 +155,8 @@
 <script setup lang="ts">
 const stats = [
   { label: 'Gründung', value: '1975' },
-  { label: 'Mitglieder', value: '555' },
-  { label: 'Beta Users', value: '521' },
-  { label: 'Raised', value: '$25M' },
+  { label: 'Mitglieder', value: '476' },
+  { label: 'Erwachsenen Teams', value: '4' },
+  { label: 'Jugend Teams', value: '13' },
 ]
 </script>

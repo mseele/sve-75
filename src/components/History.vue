@@ -11,10 +11,10 @@
             Zehn Highlights aus 75 Jahre SVE
           </h2>
           <p class="mt-6 max-w-3xl text-base leading-7 text-gray-500">
-            Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum
-            urna sed consectetur neque tristique pellentesque. Blandit amet, sed
-            aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel
-            porttitor vitae ut. Amet vitae fames senectus vitae.
+            In 75 Jahren SVE gab es immer wieder Höhen und Tiefen. Wir stellen
+            Euch zehn Ereignisse vor, die prägend waren für unsere
+            Vereinsgeschichte. Da sind sportliche Erfolge, aber auch Niederlagen
+            und infrastrukturelle Meilensteine.
           </p>
           <div class="mt-6">
             <a href="#feier" class="text-base font-medium text-rose-500">

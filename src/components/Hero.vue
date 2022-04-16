@@ -30,8 +30,11 @@
               75 Jahre SV Eutingen
             </h1>
             <p class="mt-6 text-xl text-gray-500">
-              Wir blicken zurück und wollen unser Jubiläum gebührend feiern.
-              Seit dabei und erlebt eine schöne Zeit gemeinsam mit uns.
+              Seit 1947 bringen wir Menschen durch Sport zusammen, lassen
+              Freundschaften entstehen und stellen gemeinsam etwas auf die
+              Beine. Diese 75 Jahre wunderbare Vereinsgeschichte feiern wir
+              gemeinsam an unserem Jubiläum vom 9. - 10. Juli 2022. Seit dabei
+              und erlebt eine schöne Zeit gemeinsam mit uns.
             </p>
           </div>
           <div class="mt-6">
@@ -101,11 +104,6 @@
             src="@/assets/party.jpg?preset=card"
             alt=""
           />
-          <!-- <img
-            class="w-full rounded-md shadow-xl ring-1 ring-black ring-opacity-5 lg:h-full lg:w-auto lg:max-w-none"
-            src="https://tailwindui.com/img/component-images/task-app-rose.jpg"
-            alt=""
-          /> -->
         </div>
       </div>
     </div>
