@@ -11,7 +11,7 @@ export default defineConfig({
           widths: [200, 400, 800, 1200, 1800],
           sizes: '(min-width: 1536px) 30vw, (min-width: 1024px) 50vw, 100vw',
           formats: {
-            // avif: { quality: 55 },
+            avif: { quality: 55 },
             webp: { quality: 55 },
             jpg: { quality: 55 },
           },
