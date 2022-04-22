@@ -16,6 +16,7 @@
     "autoprefixer": "^10.4.4",
     "iles": "^0.7.38",
     "inter-ui": "^3.19.3",
+    "netlify-plugin-cache-folder": "^0.0.8",
     "postcss": "^8.4.12",
     "prettier": "^2.6.2",
     "prettier-plugin-tailwindcss": "^0.1.8",

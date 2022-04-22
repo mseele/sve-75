@@ -2080,6 +2080,11 @@ napi-build-utils@^1.0.1:
   resolved "https://registry.yarnpkg.com/napi-build-utils/-/napi-build-utils-1.0.2.tgz#b1fddc0b2c46e380a0b7a76f984dd47c41a13806"
   integrity sha512-ONmRUqK7zj7DWX0D9ADe03wbwOBZxNAfF20PlGfCWQcD3+/MakShIHrMqx9YwPTfxDdF1zLeL+RGZiR9kGMLdg==
 
+netlify-plugin-cache-folder@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/netlify-plugin-cache-folder/-/netlify-plugin-cache-folder-0.0.8.tgz#eccee0a053a72ec644aee21e8b05c0fde2c22a8d"
+  integrity sha512-Zj5C/OVI5+njzo19bQAgnpHpv91mZCqrOg9MpS9bMpSZhBkmPmgSV1LUqxvVzQszbZXC23hXoaLQXFqPvxNRrg==
+
 node-abi@^3.3.0:
   version "3.8.0"
   resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.8.0.tgz#679957dc8e7aa47b0a02589dbfde4f77b29ccb32"
