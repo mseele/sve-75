@@ -154,7 +154,7 @@
 
 <script setup lang="ts">
 const stats = [
-  { label: 'Gründung', value: '1975' },
+  { label: 'Gründung', value: '1947' },
   { label: 'Mitglieder', value: '476' },
   { label: 'Erwachsenen Teams', value: '4' },
   { label: 'Jugend Teams', value: '13' },
