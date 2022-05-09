@@ -29,9 +29,9 @@
         >
           {{ title }}
         </h2>
-        <p class="mx-auto mt-6 max-w-2xl text-lg text-rose-100">
+        <div class="mx-auto mt-6 max-w-2xl text-lg text-rose-100">
           <slot />
-        </p>
+        </div>
       </div>
     </div>
   </div>
