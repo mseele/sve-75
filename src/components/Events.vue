@@ -50,12 +50,32 @@
         </Event>
         <Event title="Sonntag, 10. Juli">
           <ul class="space-y-1">
-            <li>Frühshoppen mit HEIMATHELDEN (ab 11 Uhr)</li>
+            <li>
+              Frühshoppen mit
+              <a
+                href="http://heimathelden.net/"
+                target="_blank"
+                rel="”noreferrer”"
+                class="underline hover:text-rose-200"
+                >HEIMATHELDEN</a
+              >
+              (ab 11 Uhr)
+            </li>
             <li>Mittagstisch</li>
             <li>Kinderprogramm und Hüpfburg</li>
             <li>Kuchenbuffet</li>
             <li>Einlagespiele</li>
-            <li>Zeltspektakel mit HONK & BLOW (ab 16 Uhr)</li>
+            <li>
+              Zeltspektakel mit
+              <a
+                href="https://honk-blow.de/"
+                target="_blank"
+                rel="”noreferrer”"
+                class="underline hover:text-rose-200"
+                >HONK & BLOW</a
+              >
+              (ab 16 Uhr)
+            </li>
           </ul>
         </Event>
       </div>
