@@ -41,17 +41,22 @@
       <div class="grid grid-cols-1 gap-4 lg:grid-cols-2">
         <Event title="Samstag, 9. Juli">
           <ul class="space-y-1">
-            <li>Einlagespiele</li>
+            <li class="mb-6 font-bold">Festbetrieb ab 13 Uhr</li>
+            <li>Jugend-Einlagespiel</li>
             <li>Fitness-Schnupperkurse</li>
-            <li>Kinderprogramm und Hüpfburg</li>
-            <li>Kuchenbuffet</li>
-            <li>Sportlerparty ab 19 Uhr</li>
+            <li>Burger, Kuchen u.v.m</li>
+            <li>Hüpfburg</li>
+            <li>SVE-Legendenspiel (16:30 Uhr)</li>
+            <li>Weinlaube</li>
+            <li>Sportlerparty mit DJ (19 Uhr)</li>
           </ul>
         </Event>
         <Event title="Sonntag, 10. Juli">
           <ul class="space-y-1">
+            <li class="mb-6 font-bold">Festbetrieb ab 11 Uhr</li>
+            <li>Gottesdienst (10 Uhr)</li>
             <li>
-              Frühshoppen mit
+              Frühshoppen mit den
               <a
                 href="http://heimathelden.net/"
                 target="_blank"
@@ -59,11 +64,11 @@
                 class="underline hover:text-rose-200"
                 >HEIMATHELDEN</a
               >
-              (ab 11 Uhr)
+              (11 Uhr)
             </li>
             <li>Mittagstisch</li>
             <li>Kinderprogramm und Hüpfburg</li>
-            <li>Kuchenbuffet</li>
+            <li>Auswahlspiel A1 - A2 (14 Uhr)</li>
             <li>Einlagespiele</li>
             <li>
               Zeltspektakel mit
@@ -74,7 +79,7 @@
                 class="underline hover:text-rose-200"
                 >HONK & BLOW</a
               >
-              (ab 16 Uhr)
+              (16 Uhr)
             </li>
           </ul>
         </Event>
