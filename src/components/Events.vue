@@ -49,9 +49,8 @@
                 target="_blank"
                 rel="”noreferrer”"
                 class="underline hover:text-rose-200"
-                >Fitness-Schnupperkurs</a
+                >Fitness-Schnupperkurs (13 Uhr)</a
               >
-              (13 Uhr)
             </li>
             <li>Burger, Kuchen u.v.m</li>
             <li>Hüpfburg</li>
@@ -61,9 +60,8 @@
                 target="_blank"
                 rel="”noreferrer”"
                 class="underline hover:text-rose-200"
-                >Fitness-Schnupperkurs</a
+                >Fitness-Schnupperkurs (15:30 Uhr)</a
               >
-              (15:30 Uhr)
             </li>
             <li>SVE-Legendenspiel (16:30 Uhr)</li>
             <li>Weinlaube</li>
