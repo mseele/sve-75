@@ -43,9 +43,28 @@
           <ul class="space-y-1">
             <li class="mb-6 font-bold">Festbetrieb ab 13 Uhr</li>
             <li>Jugend-Einlagespiel</li>
-            <li>Fitness-Schnupperkurse</li>
+            <li>
+              <a
+                href="https://www.sv-eutingen.de/fitness/75-fitmix-pilates"
+                target="_blank"
+                rel="”noreferrer”"
+                class="underline hover:text-rose-200"
+                >Fitness-Schnupperkurs</a
+              >
+              (13 Uhr)
+            </li>
             <li>Burger, Kuchen u.v.m</li>
             <li>Hüpfburg</li>
+            <li>
+              <a
+                href="https://www.sv-eutingen.de/fitness/75-rueckenfit-zumba"
+                target="_blank"
+                rel="”noreferrer”"
+                class="underline hover:text-rose-200"
+                >Fitness-Schnupperkurs</a
+              >
+              (15:30 Uhr)
+            </li>
             <li>SVE-Legendenspiel (16:30 Uhr)</li>
             <li>Weinlaube</li>
             <li>Sportlerparty mit DJ (19 Uhr)</li>
