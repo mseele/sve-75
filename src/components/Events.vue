@@ -49,7 +49,7 @@
                 target="_blank"
                 rel="”noreferrer”"
                 class="underline hover:text-rose-200"
-                >Fitness-Schnupperkurs (13 Uhr)</a
+                >Schnupperkurs Fitmix und Pilates (13 Uhr)</a
               >
             </li>
             <li>Burger, Kuchen u.v.m</li>
@@ -60,7 +60,7 @@
                 target="_blank"
                 rel="”noreferrer”"
                 class="underline hover:text-rose-200"
-                >Fitness-Schnupperkurs (15:30 Uhr)</a
+                >Schnupperkurs Rückenfit und Zumba (15:30 Uhr)</a
               >
             </li>
             <li>SVE-Legendenspiel (16:30 Uhr)</li>
