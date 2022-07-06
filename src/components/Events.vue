@@ -42,7 +42,6 @@
         <Event title="Samstag, 9. Juli">
           <ul class="space-y-1">
             <li class="mb-6 font-bold">Festbetrieb ab 13 Uhr</li>
-            <li>Jugend-Einlagespiel</li>
             <li>
               <a
                 href="https://www.sv-eutingen.de/fitness/75-fitmix-pilates"
@@ -52,8 +51,8 @@
                 >Schnupperkurs Fitmix und Pilates (13 Uhr)</a
               >
             </li>
-            <li>Burger, Kuchen u.v.m</li>
-            <li>Hüpfburg</li>
+            <li>Burger, Pommes, Kuchen u.v.m</li>
+            <li>Hüpfburg und Gewinnspiel</li>
             <li>
               <a
                 href="https://www.sv-eutingen.de/fitness/75-rueckenfit-zumba"
@@ -65,7 +64,7 @@
             </li>
             <li>SVE-Legendenspiel (16:30 Uhr)</li>
             <li>Weinlaube</li>
-            <li>Sportlerparty mit DJ (19 Uhr)</li>
+            <li>Sportlerparty mit DJ (19 Uhr, Eintritt 5 €)</li>
           </ul>
         </Event>
         <Event title="Sonntag, 10. Juli">
@@ -83,10 +82,9 @@
               >
               (11 Uhr)
             </li>
-            <li>Mittagstisch</li>
+            <li>Mittagstisch und Gewinnspiel</li>
             <li>Kinderprogramm und Hüpfburg</li>
             <li>Auswahlspiel A1 - A2 (14 Uhr)</li>
-            <li>Einlagespiele</li>
             <li>
               Zeltspektakel mit
               <a
